@@ -32,8 +32,8 @@ React-based frontend application for managing personal and business finances in 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/galtes1/DoughFlowClient3.git
-cd DoughFlowClient3
+git clone https://github.com/galtes1/DoughFlowClient4.git
+cd DoughFlowClient4
 ```
 
 ### 2. Install Dependencies
